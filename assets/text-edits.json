@@ -2,7 +2,7 @@
     {
         "CurrentEnglish": "Updated",
         "CurrentJapanese": "新規",
-        "NewEnglish": "Remake",
+        "NewEnglish": "MangaGamer",
         "NewJapanese": "リメーク"
     },
     {
@@ -14,7 +14,7 @@
     {
         "CurrentEnglish": "Standard 640x480",
         "CurrentJapanese": "標準 640x480",
-        "NewEnglish": "Standard 1280x720",
+        "NewEnglish": "Padrão 1280x720",
         "NewJapanese": "標準 1280x720"
     },
     {
@@ -32,33 +32,33 @@
     {
         "CurrentEnglish": "All-Cast Review Session",
         "CurrentJapanese": "お疲れさま会",
-        "NewEnglish": "All-Cast Review Session",
+        "NewEnglish": "Revisão de Elenco",
         "NewJapanese": "お疲れさま会"
     },
     {
         "CurrentEnglish": "Chapter Jump",
         "CurrentJapanese": "シナリオジャンプモード",
-        "NewEnglish": "Chapter Jump",
+        "NewEnglish": "Pular Capítulo",
         "NewJapanese": "シナリオジャンプモード"
     },
     {
         "CurrentEnglish": "View TIPS",
         "CurrentJapanese": "TIPSを読む",
-        "NewEnglish": "View TIPS",
+        "NewEnglish": "Ver DICAS",
         "NewJapanese": "TIPSを読む"
     },
     {
         "Comment": "Back for chapters with only one back button",
         "CurrentEnglish": "Back",
         "CurrentJapanese": "戻る",
-        "NewEnglish": "Back",
+        "NewEnglish": "Voltar",
         "NewJapanese": "戻る"
     },
     {
         "Comment": "Back for chapters with multiple back buttons (e.g Hou+)",
         "CurrentEnglish": "Back",
         "CurrentJapanese": "戻る",
-        "NewEnglish": "Back",
+        "NewEnglish": "Voltar",
         "NewJapanese": "戻る",
         "Discriminator": 0
     },
@@ -66,7 +66,7 @@
         "Comment": "Back for chapters with multiple back buttons (e.g Hou+)",
         "CurrentEnglish": "Back",
         "CurrentJapanese": "戻る",
-        "NewEnglish": "Back",
+        "NewEnglish": "Voltar",
         "NewJapanese": "戻る",
         "Discriminator": 1
     },
@@ -74,64 +74,46 @@
         "Comment": "Hou+ Special 'EXIT' Back button - this back button is shown during the 'Scenario Unlock' menu, and for some reason says 'EXIT' (in English) when the language is set to Japanese",
         "CurrentEnglish": "Back",
         "CurrentJapanese": "EXIT",
-        "NewEnglish": "Back",
+        "NewEnglish": "Voltar",
         "NewJapanese": "EXIT"
     },
     {
         "CurrentEnglish": "Staff Room",
         "CurrentJapanese": "スタッフルーム",
-        "NewEnglish": "Staff Room",
+        "NewEnglish": "Sala dos Funcionários",
         "NewJapanese": "スタッフルーム"
-    },
-    {
-        "CurrentEnglish": "Watanagashi 12-3",
-        "CurrentJapanese": "綿流し編　１２日目３",
-        "NewEnglish": "Watanagashi Day 12-3",
-        "NewJapanese": "綿流し編　１２日目３"
-    },
-    {
-        "CurrentEnglish": "Himatsubushi 2-2",
-        "CurrentJapanese": "暇潰し編　２日目２",
-        "NewEnglish": "Himatsubushi Day 2-2",
-        "NewJapanese": "暇潰し編　２日目２"
-    },
-    {
-        "CurrentEnglish": "Himatsubushi 2-3",
-        "CurrentJapanese": "暇潰し編　２日目３",
-        "NewEnglish": "Himatsubushi Day 2-3",
-        "NewJapanese": "暇潰し編　２日目３"
     },
     {
         "Comment": "Hou+ Omake Menu Buton (before you've completed the game)",
         "CurrentEnglish": "Scenario Unlock",
         "CurrentJapanese": "シナリオロック",
-        "NewEnglish": "Scenario Unlock",
+        "NewEnglish": "Desbloquear Cenário",
         "NewJapanese": "シナリオロック"
     },
     {
         "Comment": "Hou+ Scenario Unlock Confirmation Button",
         "CurrentEnglish": "Yes",
         "CurrentJapanese": "はい",
-        "NewEnglish": "Yes",
+        "NewEnglish": "Sim",
         "NewJapanese": "はい"
     },
     {
         "Comment": "Hou+ Omake Menu Buttons (after you've completed the game)",
         "CurrentEnglish": "2022 After Party",
         "CurrentJapanese": "お疲れさま会 2022",
-        "NewEnglish": "2022 After Party",
+        "NewEnglish": "Pós-Festa 2022",
         "NewJapanese": "お疲れさま会 2022"
     },
     {
         "CurrentEnglish": "Music Room",
         "CurrentJapanese": "音楽室",
-        "NewEnglish": "Music Room",
+        "NewEnglish": "Sala de Música",
         "NewJapanese": "音楽室"
     },
     {
         "CurrentEnglish": "Secret Staff Room",
         "CurrentJapanese": "裏スタッフルーム",
-        "NewEnglish": "Secret Staff Room",
+        "NewEnglish": "Sala Secreta dos Funcionários",
         "NewJapanese": "裏スタッフルーム"
     },
     {
@@ -188,5 +170,71 @@
         "CurrentJapanese": "神姦し編",
         "NewEnglish": "Kamikashimashi",
         "NewJapanese": "神姦し編"
+    },
+    {
+        "CurrentEnglish": "Return to Extras Screen",
+        "CurrentJapanese": "戻る",
+        "NewEnglish": "Voltar",
+        "NewJapanese": "戻る"
+    },
+    {
+    "CurrentEnglish": "ON",
+    "CurrentJapanese": "全て",
+    "NewEnglish": "ON",
+    "NewJapanese": "全て"
+    },
+    {
+        "CurrentEnglish": "Show Menu",
+        "CurrentJapanese": "メニュー表示",
+        "NewEnglish": "Exibir Menu",
+        "NewJapanese": "メニュー表示"
+    },
+    {
+        "CurrentEnglish": "Hide Window",
+        "CurrentJapanese": "ウィンドウ非表示",
+        "NewEnglish": "Esconder Janela",
+        "NewJapanese": "ウィンドウ非表示"
+    },
+    {
+        "CurrentEnglish": "OFF",
+        "CurrentJapanese": "既読のみ",
+        "NewEnglish": "OFF",
+        "NewJapanese": "既読のみ"
+    },
+    {
+        "CurrentEnglish": "View New TIPS",
+        "CurrentJapanese": "新規TIPSを読む",
+        "NewEnglish": "Novas DICAS",
+        "NewJapanese": "新規TIPSを読む"
+    },
+    {
+        "CurrentEnglish": "View All TIPS",
+        "CurrentJapanese": "TIPSをすべて読む",
+        "NewEnglish": "Todas as DICAS",
+        "NewJapanese": "TIPSをすべて読む"
+    },
+    {
+        "CurrentEnglish": "Save & Load",
+        "CurrentJapanese": "Save & Load",
+        "NewEnglish": "Dados Salvos",
+        "NewJapanese": "Save & Load"
+    },
+    {
+        "CurrentEnglish": "Continue",
+        "CurrentJapanese": "ゲームを進める",
+        "NewEnglish": "Continuar",
+        "NewJapanese": "ゲームを進める"
+    },
+    {
+        "CurrentEnglish": "English",
+        "CurrentJapanese": "English",
+        "NewEnglish": "Português",
+        "NewJapanese": "Português"
+    },
+    {
+        "CurrentEnglish": "Fullscreen",
+        "CurrentJapanese": "フルスクリーン",
+        "NewEnglish": "Tela Cheia",
+        "NewJapanese": "フルスクリーン"
     }
 ]

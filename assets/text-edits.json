@@ -115,7 +115,7 @@
         "Comment": "Hou+ Music Room 'Play' Button",
         "CurrentEnglish": "Play",
         "CurrentJapanese": "演奏",
-        "NewEnglish": "Play",
+        "NewEnglish": "Tocar",
         "NewJapanese": "演奏"
     },
     {
@@ -142,7 +142,7 @@
     {
         "CurrentEnglish": "Secret Staff Room",
         "CurrentJapanese": "裏スタッフルーム",
-        "NewEnglish": "Sala Secreta dos Funcionários",
+        "NewEnglish": "<size=-5>Sala Secreta dos Funcionários",
         "NewJapanese": "裏スタッフルーム"
     },
     {
@@ -207,10 +207,10 @@
         "NewJapanese": "戻る"
     },
     {
-    "CurrentEnglish": "ON",
-    "CurrentJapanese": "全て",
-    "NewEnglish": "ON",
-    "NewJapanese": "全て"
+        "CurrentEnglish": "ON",
+        "CurrentJapanese": "全て",
+        "NewEnglish": "ON",
+        "NewJapanese": "全て"
     },
     {
         "CurrentEnglish": "Show Menu",
